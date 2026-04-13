@@ -1,9 +1,9 @@
 {
-  "owner": {
-    "username": "Dragon428",
-    "email": "danielibor29@gmail.com"
-  },
-  "record": {
-    "CNAME": "dragon428.github.io"
-  }
+"owner": {
+"username": "Dragon428",
+"email": "danielibor29@gmail.com"
+},
+"record": {
+"CNAME": "dragon428.github.io"
+}
 }
